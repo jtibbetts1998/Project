@@ -1,0 +1,10 @@
+// Python - Develop a bottom-up algorithm to teach someone how to send a flattering e-mail to your professor.
+
+
+Student.write(email)
+Email.create(opening)
+Email.create(compliment)
+Email.create(message)
+Email.create(closer)
+Email.SchoolEmail(professor)
+Student.send(email
